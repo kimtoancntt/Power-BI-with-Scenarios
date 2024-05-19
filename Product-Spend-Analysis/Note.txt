@@ -1,0 +1,11 @@
+Source Data: Wide World Importers (https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0)
+DAX function used:
+
+	DISTINCTCOUNT
+	SUM
+	SUMX
+	CALCULATE
+	RELATED
+
+	
+	
